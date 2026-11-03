@@ -1,5 +1,8 @@
 # Program Penghitung Nilai Mahasiswa
 
+- **Nama:** M Said Hibban Muttaqien
+- **NIM:** 24260016
+
 ## Deskripsi
 Program sederhana berbasis JavaScript yang dijalankan menggunakan Node.js. Program ini dibuat untuk memenuhi tugas praktik pengganti mata kuliah **Aplikasi Berbasis Service**.
 
@@ -32,7 +35,3 @@ Jalankan perintah berikut melalui terminal:
 ```bash
 node penghitung-nilai.js
 ```
-
-## Identitas
-- **Nama:** M Said Hibban Muttaqien
-- **NIM:** 24260016
